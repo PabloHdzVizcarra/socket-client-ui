@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="socket-client-ui">
+    <output-path>$PROJECT_DIR$/out/artifacts/socket_client_ui</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="main.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="socket_client_ui.jar">
+        <element id="module-output" name="socket-client-ui" />
+      </element>
+    </root>
+  </artifact>
+</component>
